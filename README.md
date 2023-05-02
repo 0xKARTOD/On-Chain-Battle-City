@@ -5,6 +5,9 @@
 
 - Smart contract: https://mumbai.polygonscan.com/address/0xa0e5b78f3b43c0dbfeb1da0b75b84dc07f8388c5
 
+## Temp/Test Files:
+
+- player1.py and player2.py are testing files. So you can pass metamask and "deposit" transaction stage and test game itself
 
 ## Logic:
 
